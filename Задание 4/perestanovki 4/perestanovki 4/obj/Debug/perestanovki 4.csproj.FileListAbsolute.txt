@@ -1,0 +1,13 @@
+C:\Users\gring\source\repos\perestanovki 4\perestanovki 4\bin\Debug\perestanovki 4.exe.config
+C:\Users\gring\source\repos\perestanovki 4\perestanovki 4\bin\Debug\perestanovki 4.exe
+C:\Users\gring\source\repos\perestanovki 4\perestanovki 4\bin\Debug\perestanovki 4.pdb
+C:\Users\gring\source\repos\perestanovki 4\perestanovki 4\obj\Debug\perestanovki 4.csproj.CoreCompileInputs.cache
+C:\Users\gring\source\repos\perestanovki 4\perestanovki 4\obj\Debug\perestanovki 4.exe
+C:\Users\gring\source\repos\perestanovki 4\perestanovki 4\obj\Debug\perestanovki 4.pdb
+C:\Users\gring\Desktop\Экзамен по програмированию\Задание 4\perestanovki 4\perestanovki 4\bin\Debug\perestanovki 4.exe.config
+C:\Users\gring\Desktop\Экзамен по програмированию\Задание 4\perestanovki 4\perestanovki 4\bin\Debug\perestanovki 4.exe
+C:\Users\gring\Desktop\Экзамен по програмированию\Задание 4\perestanovki 4\perestanovki 4\bin\Debug\perestanovki 4.pdb
+C:\Users\gring\Desktop\Экзамен по програмированию\Задание 4\perestanovki 4\perestanovki 4\obj\Debug\perestanovki 4.csprojAssemblyReference.cache
+C:\Users\gring\Desktop\Экзамен по програмированию\Задание 4\perestanovki 4\perestanovki 4\obj\Debug\perestanovki 4.csproj.CoreCompileInputs.cache
+C:\Users\gring\Desktop\Экзамен по програмированию\Задание 4\perestanovki 4\perestanovki 4\obj\Debug\perestanovki 4.exe
+C:\Users\gring\Desktop\Экзамен по програмированию\Задание 4\perestanovki 4\perestanovki 4\obj\Debug\perestanovki 4.pdb

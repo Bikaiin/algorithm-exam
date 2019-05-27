@@ -1,0 +1,14 @@
+C:\Users\gring\source\repos\sochetaniya is n po k\sochetaniya is n po k\bin\Debug\sochetaniya is n po k.exe.config
+C:\Users\gring\source\repos\sochetaniya is n po k\sochetaniya is n po k\bin\Debug\sochetaniya is n po k.exe
+C:\Users\gring\source\repos\sochetaniya is n po k\sochetaniya is n po k\bin\Debug\sochetaniya is n po k.pdb
+C:\Users\gring\source\repos\sochetaniya is n po k\sochetaniya is n po k\obj\Debug\sochetaniya is n po k.csprojAssemblyReference.cache
+C:\Users\gring\source\repos\sochetaniya is n po k\sochetaniya is n po k\obj\Debug\sochetaniya is n po k.csproj.CoreCompileInputs.cache
+C:\Users\gring\source\repos\sochetaniya is n po k\sochetaniya is n po k\obj\Debug\sochetaniya is n po k.exe
+C:\Users\gring\source\repos\sochetaniya is n po k\sochetaniya is n po k\obj\Debug\sochetaniya is n po k.pdb
+C:\Users\gring\Desktop\Экзамен по програмированию\Задание 5\sochetaniya is n po k\sochetaniya is n po k\bin\Debug\sochetaniya is n po k.exe.config
+C:\Users\gring\Desktop\Экзамен по програмированию\Задание 5\sochetaniya is n po k\sochetaniya is n po k\bin\Debug\sochetaniya is n po k.exe
+C:\Users\gring\Desktop\Экзамен по програмированию\Задание 5\sochetaniya is n po k\sochetaniya is n po k\bin\Debug\sochetaniya is n po k.pdb
+C:\Users\gring\Desktop\Экзамен по програмированию\Задание 5\sochetaniya is n po k\sochetaniya is n po k\obj\Debug\sochetaniya is n po k.csprojAssemblyReference.cache
+C:\Users\gring\Desktop\Экзамен по програмированию\Задание 5\sochetaniya is n po k\sochetaniya is n po k\obj\Debug\sochetaniya is n po k.csproj.CoreCompileInputs.cache
+C:\Users\gring\Desktop\Экзамен по програмированию\Задание 5\sochetaniya is n po k\sochetaniya is n po k\obj\Debug\sochetaniya is n po k.exe
+C:\Users\gring\Desktop\Экзамен по програмированию\Задание 5\sochetaniya is n po k\sochetaniya is n po k\obj\Debug\sochetaniya is n po k.pdb

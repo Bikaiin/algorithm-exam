@@ -1,0 +1,7 @@
+C:\Users\gring\Desktop\Экзамен по програмированию\Задание 3\задание 3\задание 3\bin\Debug\задание 3.exe.config
+C:\Users\gring\Desktop\Экзамен по програмированию\Задание 3\задание 3\задание 3\bin\Debug\задание 3.exe
+C:\Users\gring\Desktop\Экзамен по програмированию\Задание 3\задание 3\задание 3\bin\Debug\задание 3.pdb
+C:\Users\gring\Desktop\Экзамен по програмированию\Задание 3\задание 3\задание 3\obj\Debug\задание 3.csprojAssemblyReference.cache
+C:\Users\gring\Desktop\Экзамен по програмированию\Задание 3\задание 3\задание 3\obj\Debug\задание 3.csproj.CoreCompileInputs.cache
+C:\Users\gring\Desktop\Экзамен по програмированию\Задание 3\задание 3\задание 3\obj\Debug\задание 3.exe
+C:\Users\gring\Desktop\Экзамен по програмированию\Задание 3\задание 3\задание 3\obj\Debug\задание 3.pdb

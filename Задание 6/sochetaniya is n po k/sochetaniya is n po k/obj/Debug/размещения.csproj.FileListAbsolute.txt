@@ -1,0 +1,7 @@
+C:\Users\gring\Desktop\Экзамен по програмированию\Задание 6\sochetaniya is n po k\sochetaniya is n po k\bin\Debug\sochetaniya is n po k.exe.config
+C:\Users\gring\Desktop\Экзамен по програмированию\Задание 6\sochetaniya is n po k\sochetaniya is n po k\bin\Debug\sochetaniya is n po k.exe
+C:\Users\gring\Desktop\Экзамен по програмированию\Задание 6\sochetaniya is n po k\sochetaniya is n po k\bin\Debug\sochetaniya is n po k.pdb
+C:\Users\gring\Desktop\Экзамен по програмированию\Задание 6\sochetaniya is n po k\sochetaniya is n po k\obj\Debug\размещения.csprojAssemblyReference.cache
+C:\Users\gring\Desktop\Экзамен по програмированию\Задание 6\sochetaniya is n po k\sochetaniya is n po k\obj\Debug\размещения.csproj.CoreCompileInputs.cache
+C:\Users\gring\Desktop\Экзамен по програмированию\Задание 6\sochetaniya is n po k\sochetaniya is n po k\obj\Debug\sochetaniya is n po k.exe
+C:\Users\gring\Desktop\Экзамен по програмированию\Задание 6\sochetaniya is n po k\sochetaniya is n po k\obj\Debug\sochetaniya is n po k.pdb
